@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# API_RubyOnRails
+Repositirio para aprender a crear un backend con ruby on rails, sera un api de una biblioteca.
+>>>>>>> 196e71bf86bfa6d6640c6ec002983634e1a22c82
