@@ -5,7 +5,6 @@ class BooksController < ApplicationController
   def index
     @books = Book.all
 
-    
     render json: @books
   end
 
@@ -14,6 +13,7 @@ class BooksController < ApplicationController
     render json: @book
   end
 
+  
   # POST /books
   def create
     @book = Book.new(book_params)
